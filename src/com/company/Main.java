@@ -6,6 +6,9 @@ public class Main {
         Scanner stdin = new Scanner(System.in);
 	    System.out.print("This is an ISBN Verifier");
 
+	    System.out.println("Enter a number: ");
+	    String num = stdin.next();
+
 
     }
 }
