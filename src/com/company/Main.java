@@ -9,6 +9,8 @@ public class Main {
 	    System.out.println("Enter a number: ");
 	    String num = stdin.next();
 
+	    System.out.println("Hello");
+
 
     }
 }
