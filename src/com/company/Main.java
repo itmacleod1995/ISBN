@@ -10,6 +10,7 @@ public class Main {
 	    String num = stdin.next();
 
 	    System.out.println("Hello");
+	    System.out.println("Goodbye");
 
 
     }
